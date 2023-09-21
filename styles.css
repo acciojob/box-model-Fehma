@@ -1,1 +1,32 @@
-/*  your css code here. If applicable */
+.container{
+	padding:20px;
+	width:500px;
+	height:200px;
+	background-color:lightgray;
+	border:8px solid black;
+	border-radius:80px;
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	text-align:center;
+}
+.one{
+	background-color:green;
+	width:100px;
+	height:100px;
+	border-radius:50px;
+}
+.two{
+	background-color:yellow;
+	width:100px;
+	height:100px;
+	border-radius:50px;
+	margin:20px;
+}
+.three{
+	background-color:red;
+	width:100px;
+	height:100px;
+	border-radius:50px;
+}
